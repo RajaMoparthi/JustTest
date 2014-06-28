@@ -32,7 +32,7 @@ namespace eventTest_1
 
         private void TestDel()
         {
-            label1.Text += "My method " + "\n i am raja";
+            label1.Text += "My method " + "\n i am raj a";
         }
 
         private void button1_Click(object sender, EventArgs e)
